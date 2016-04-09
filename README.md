@@ -31,6 +31,6 @@ pom.xml:
 			<groupId>io.totemo</groupId>
 			<artifactId>cobble</artifactId>
 			<version>1.0.0</version>
-	        </dependency>
+		</dependency>
 	</dependencies>
 ```
